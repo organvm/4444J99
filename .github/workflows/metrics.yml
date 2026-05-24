@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v4
 
       # Light theme variant
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics.svg
@@ -35,7 +35,7 @@ jobs:
           config_order: base.header, isocalendar, languages, lines
 
       # Dark theme variant
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics-dark.svg
