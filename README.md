@@ -41,6 +41,34 @@ Governance-as-code — machine-readable registry, dependency validation, promoti
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+**[Commerce Meta](https://github.com/organvm-iii-ergon/commerce--meta)** · *ergon*
+Commerce substrate — the hub for deployed products and revenue infrastructure across the ergon organ.
+
+</td>
+<td width="50%">
+
+**[Community Hub](https://github.com/organvm-vi-koinonia/community-hub)** · *koinonia*
+Collaborative infrastructure — salons, reading groups, and shared spaces coordinating the koinonia organ.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Kerygma Pipeline](https://github.com/organvm-vii-kerygma/kerygma-pipeline)** · *kerygma*
+Distribution pipeline — amplification and audience delivery for work surfaced from the other organs.
+
+</td>
+<td width="50%">
+
+**[Public Process](https://github.com/organvm-v-logos/public-process)** · *logos*
+Building in public — the essay and editorial pipeline feeding the logos organ (see *Latest Essays* below).
+
+</td>
+</tr>
 </table>
 
 ---
