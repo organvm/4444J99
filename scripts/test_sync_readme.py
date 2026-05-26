@@ -34,6 +34,13 @@ class RenderTests(unittest.TestCase):
         self.assertEqual(out, text)
         self.assertTrue(any("unknown" in w for w in warns))
 
+    def test_none_value_renders_empty(self):
+        # main() normalizes None -> "" before render; the body must then be empty.
+        text = "<!-- v:total_repos -->placeholder<!-- /v -->"
+        data = {"total_repos": ("" if None is None else str(None))}
+        out, _ = sr.render(text, data)
+        self.assertEqual(out, "<!-- v:total_repos --><!-- /v -->")
+
     def test_data_without_marker_warns(self):
         out, warns = sr.render("no markers here", {"orphan": "1"})
         self.assertEqual(out, "no markers here")
@@ -47,9 +54,10 @@ class RenderTests(unittest.TestCase):
 
     def test_real_readme_in_sync_with_data(self):
         """The committed README must already match the committed data file."""
-        data_raw = sr.yaml.safe_load((sr.REPO_ROOT / "data/ecosystem.yml").read_text())
-        data = {k: str(v) for k, v in data_raw.items()}
-        readme = (sr.REPO_ROOT / "README.md").read_text()
+        data_raw = sr.yaml.safe_load((sr.REPO_ROOT / "data/ecosystem.yml").read_text(encoding="utf-8"))
+        # Mirror main()'s normalization (None -> "") so the guard matches real behavior.
+        data = {k: ("" if v is None else str(v)) for k, v in data_raw.items()}
+        readme = (sr.REPO_ROOT / "README.md").read_text(encoding="utf-8")
         out, _ = sr.render(readme, data)
         self.assertEqual(out, readme, "README.md is out of sync with data/ecosystem.yml")
 
