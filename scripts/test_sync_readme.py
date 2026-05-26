@@ -52,6 +52,27 @@ class RenderTests(unittest.TestCase):
         twice, _ = sr.render(once, {"total_repos": "148"})
         self.assertEqual(once, twice)
 
+    def test_check_fails_when_marker_missing(self):
+        # A data key with no marker in the README must fail --check, not pass silently.
+        import os
+        import sys
+        import tempfile
+        with tempfile.TemporaryDirectory() as d:
+            dp = Path(d) / "ecosystem.yml"
+            rp = Path(d) / "README.md"
+            dp.write_text("total_repos: 148\n", encoding="utf-8")
+            rp.write_text("# readme with no markers\n", encoding="utf-8")
+            os.environ["ECOSYSTEM_DATA"] = str(dp)
+            os.environ["README_PATH"] = str(rp)
+            old_argv = sys.argv
+            try:
+                sys.argv = ["sync-readme.py", "--check"]
+                self.assertEqual(sr.main(), 1)
+            finally:
+                sys.argv = old_argv
+                del os.environ["ECOSYSTEM_DATA"]
+                del os.environ["README_PATH"]
+
     def test_real_readme_in_sync_with_data(self):
         """The committed README must already match the committed data file."""
         data_raw = sr.yaml.safe_load((sr.REPO_ROOT / "data/ecosystem.yml").read_text(encoding="utf-8"))

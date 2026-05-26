@@ -74,7 +74,9 @@ def main() -> int:
         print(f"warn: {w}", file=sys.stderr)
 
     if args.check:
-        if new_text != original:
+        # Warnings (e.g. a deleted marker leaving a value with nowhere to render)
+        # are drift too, even when the text happens to be unchanged.
+        if warnings or new_text != original:
             print(f"error: {_disp(readme_path)} is out of sync with {_disp(data_path)} — "
                   f"run `python3 scripts/sync-readme.py`", file=sys.stderr)
             return 1
