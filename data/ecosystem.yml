@@ -1,0 +1,9 @@
+# Single source of truth for the dynamic ecosystem stats shown in README.md.
+#
+# These values are injected into the `<!-- v:KEY -->...<!-- /v -->` markers by
+# scripts/sync-readme.py (run locally or via the ecosystem-stats workflow).
+# Edit the numbers here, never inline in the README — CI fails on drift.
+
+total_repos: 148        # repos across the eight-organ system
+total_organs: 10        # GitHub orgs (the eight organs + meta + personal)
+total_words_short: "6K+"  # short-form public-documentation word count
