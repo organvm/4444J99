@@ -12,10 +12,10 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       # Light theme variant
-      - uses: lowlighter/metrics@v3.34
+      - uses: lowlighter/metrics@v4
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics.svg
@@ -35,7 +35,7 @@ jobs:
           config_order: base.header, isocalendar, languages, lines
 
       # Dark theme variant
-      - uses: lowlighter/metrics@v3.34
+      - uses: lowlighter/metrics@v4
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/metrics-dark.svg
