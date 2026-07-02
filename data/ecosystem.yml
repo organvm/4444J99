@@ -4,6 +4,6 @@
 # scripts/sync-readme.py (run locally or via the ecosystem-stats workflow).
 # Edit the numbers here, never inline in the README — CI fails on drift.
 
-total_repos: 148        # repos across the eight-organ system
+total_repos: 149        # repos across the eight-organ system (canonical: corpus system-metrics.json computed.total_repos)
 total_organs: 10        # GitHub orgs (the eight organs + meta + personal)
-total_words_short: "6K+"  # short-form public-documentation word count
+total_words_short: "740K+"  # documentation word count (matches portfolio vitals.logos.words = 740,907; keeps profile ↔ portfolio consistent)
