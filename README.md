@@ -6,7 +6,7 @@ I build autonomous creative systems and treat their governance as an artistic me
 
 **Now:** Shipping an [eight-organ orchestration system](https://github.com/meta-organvm) across <!-- v:total_repos -->148<!-- /v --> repos, <!-- v:total_organs -->10<!-- /v --> orgs, and <!-- v:total_words_short -->6K+<!-- /v --> words of public documentation.
 
-[Portfolio](https://4444j99.github.io/portfolio/) · [Resume](https://4444j99.github.io/portfolio/resume/) · [Email](mailto:padavano.anthony@gmail.com)
+[Portfolio](https://organvm.github.io/portfolio/) · [Resume](https://organvm.github.io/portfolio/resume/) · [Email](mailto:padavano.anthony@gmail.com)
 
 ---
 
@@ -175,7 +175,7 @@ MFA in Creative Writing (FAU) · BA in English Literature (CUNY) · Meta Full-St
 
 ---
 
-<sub>New York City · [Portfolio](https://4444j99.github.io/portfolio/) · [Resume](https://4444j99.github.io/portfolio/resume/) · [padavano.anthony@gmail.com](mailto:padavano.anthony@gmail.com) · [meta-organvm](https://github.com/meta-organvm)</sub>
+<sub>New York City · [Portfolio](https://organvm.github.io/portfolio/) · [Resume](https://organvm.github.io/portfolio/resume/) · [padavano.anthony@gmail.com](mailto:padavano.anthony@gmail.com) · [meta-organvm](https://github.com/meta-organvm)</sub>
 
 ![Profile views](https://komarev.com/ghpvc/?username=4444j99&color=c9a84c&style=flat&label=profile+views)
 
@@ -183,6 +183,6 @@ MFA in Creative Writing (FAU) · BA in English Literature (CUNY) · Meta Full-St
 
 ---
 
-<sub>[Portfolio](https://4444j99.github.io/portfolio/) · [System Directory](https://4444j99.github.io/portfolio/directory/) · [ORGAN 4444J99](https://4444j99.github.io/) · Part of the <a href="https://4444j99.github.io/portfolio/directory/">ORGANVM eight-organ system</a></sub>
+<sub>[Portfolio](https://organvm.github.io/portfolio/) · [System Directory](https://organvm.github.io/portfolio/directory/) · [ORGAN 4444J99](https://4444j99.github.io/) · Part of the <a href="https://organvm.github.io/portfolio/directory/">ORGANVM eight-organ system</a></sub>
 
 <!-- SYSTEM-NAV-END -->
