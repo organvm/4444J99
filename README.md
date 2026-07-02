@@ -4,7 +4,7 @@
 
 I build autonomous creative systems and treat their governance as an artistic medium — shipping infrastructure that coordinates theory, generative art, commerce, and community as a single governed system.
 
-**Now:** Shipping an [eight-organ orchestration system](https://github.com/meta-organvm) across <!-- v:total_repos -->149<!-- /v --> repos, <!-- v:total_organs -->10<!-- /v --> orgs, and <!-- v:total_words_short -->740K+<!-- /v --> words of public documentation.
+**Now:** Shipping an [eight-organ orchestration system](https://github.com/organvm) across <!-- v:total_repos -->171<!-- /v --> repos, <!-- v:total_organs -->10<!-- /v --> orgs, and <!-- v:total_words_short -->988K+<!-- /v --> words of public documentation.
 
 [Portfolio](https://organvm.github.io/portfolio/) · [Resume](https://organvm.github.io/portfolio/resume/) · [Email](mailto:padavano.anthony@gmail.com)
 
@@ -120,7 +120,7 @@ VII kerygma   ·  distribution, amplification, audience
     meta      ·  the system that holds the system
 ```
 
-Each organ is a [GitHub organization](https://github.com/meta-organvm). The meta-system — the governance layer, the registry, the dependency graph — is itself the primary artifact. Read the [essays on building in public](https://organvm-v-logos.github.io/public-process/).
+Each organ is a [GitHub organization](https://github.com/organvm). The meta-system — the governance layer, the registry, the dependency graph — is itself the primary artifact. Read the [essays on building in public](https://organvm-v-logos.github.io/public-process/).
 
 ---
 
@@ -175,7 +175,7 @@ MFA in Creative Writing (FAU) · BA in English Literature (CUNY) · Meta Full-St
 
 ---
 
-<sub>New York City · [Portfolio](https://organvm.github.io/portfolio/) · [Resume](https://organvm.github.io/portfolio/resume/) · [padavano.anthony@gmail.com](mailto:padavano.anthony@gmail.com) · [meta-organvm](https://github.com/meta-organvm)</sub>
+<sub>New York City · [Portfolio](https://organvm.github.io/portfolio/) · [Resume](https://organvm.github.io/portfolio/resume/) · [padavano.anthony@gmail.com](mailto:padavano.anthony@gmail.com) · [organvm](https://github.com/organvm)</sub>
 
 ![Profile views](https://komarev.com/ghpvc/?username=4444j99&color=c9a84c&style=flat&label=profile+views)
 
