@@ -120,7 +120,7 @@ VII kerygma   ·  distribution, amplification, audience
     meta      ·  the system that holds the system
 ```
 
-Each organ is a [GitHub organization](https://github.com/organvm). The meta-system — the governance layer, the registry, the dependency graph — is itself the primary artifact. Read the [essays on building in public](https://organvm-v-logos.github.io/public-process/).
+Each organ is a [GitHub organization](https://github.com/organvm). The meta-system — the governance layer, the registry, the dependency graph — is itself the primary artifact. Read the [essays on building in public](https://organvm.github.io/public-process/).
 
 ---
 
@@ -165,7 +165,7 @@ Each organ is a [GitHub organization](https://github.com/organvm). The meta-syst
 
 ### Latest Essays
 
-<!-- BLOG-POST-LIST:START -->- [How a Governance System Taught an Agent Framework to Version Itself](https://organvm-v-logos.github.io/public-process/essays/how-governance-taught-agents-to-version/)- [The Organ Chain Reset: When the Pipeline Is the Product](https://organvm-v-logos.github.io/public-process/essays/the-organ-chain-reset/)- [The Autonomous Sprint: When the System Maintains Itself](https://organvm-v-logos.github.io/public-process/essays/the-autonomous-sprint/)- [Precision Over Volume: A Doctoral Thesis on Career Pipeline Optimization](https://organvm-v-logos.github.io/public-process/essays/precision-over-volume-doctoral-thesis/)- [Two Weeks and Forty-Six Essays: The ORGAN-V Production Retrospective](https://organvm-v-logos.github.io/public-process/essays/two-weeks-and-forty-six-essays/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [How a Governance System Taught an Agent Framework to Version Itself](https://organvm.github.io/public-process/essays/how-governance-taught-agents-to-version/)- [The Organ Chain Reset: When the Pipeline Is the Product](https://organvm.github.io/public-process/essays/the-organ-chain-reset/)- [The Autonomous Sprint: When the System Maintains Itself](https://organvm.github.io/public-process/essays/the-autonomous-sprint/)- [Precision Over Volume: A Doctoral Thesis on Career Pipeline Optimization](https://organvm.github.io/public-process/essays/precision-over-volume-doctoral-thesis/)- [Two Weeks and Forty-Six Essays: The ORGAN-V Production Retrospective](https://organvm.github.io/public-process/essays/two-weeks-and-forty-six-essays/)<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -183,6 +183,6 @@ MFA in Creative Writing (FAU) · BA in English Literature (CUNY) · Meta Full-St
 
 ---
 
-<sub>[Portfolio](https://organvm.github.io/portfolio/) · [System Directory](https://organvm.github.io/portfolio/directory/) · [ORGAN 4444J99](https://4444j99.github.io/) · Part of the <a href="https://organvm.github.io/portfolio/directory/">ORGANVM eight-organ system</a></sub>
+<sub>[Portfolio](https://organvm.github.io/portfolio/) · [System Directory](https://organvm.github.io/portfolio/directory/) · [ORGAN 4444J99](https://organvm.github.io/portfolio/) · Part of the <a href="https://organvm.github.io/portfolio/directory/">ORGANVM eight-organ system</a></sub>
 
 <!-- SYSTEM-NAV-END -->
