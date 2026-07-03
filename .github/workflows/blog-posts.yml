@@ -16,7 +16,7 @@ jobs:
 
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://organvm-v-logos.github.io/public-process/feed.xml"
+          feed_list: "https://organvm.github.io/public-process/feed.xml"
           max_post_count: 5
           template: "- [$title]($url)"
           commit_message: "chore: update essay feed in README [skip ci]"
