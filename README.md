@@ -10,6 +10,16 @@ I build autonomous creative systems and treat their governance as an artistic me
 
 ---
 
+### Computed Laurels
+
+<a href="https://github.com/4444J99/laurea">
+  <img src="https://raw.githubusercontent.com/4444J99/laurea/main/assets/cards/hero.svg" alt="Computed laurels — top 1% Python full-stack engineer, recomputed daily" width="800"/>
+</a>
+
+*Not a bio line — an instrument. [LAVREA](https://github.com/4444J99/laurea) recomputes these placements daily from the live GitHub API against cited population baselines; every percentile is a conservative floor, and if the output stops, the claim deletes itself. [Methodology](https://github.com/4444J99/laurea/blob/main/METHODOLOGY.md) · [Full report](https://github.com/4444J99/laurea/blob/main/assets/SUPERLATIVES.md)*
+
+---
+
 ### Flagship Systems
 
 <table>
@@ -125,6 +135,15 @@ Each organ is a [GitHub organization](https://github.com/organvm). The meta-syst
 ---
 
 ### GitHub Stats
+
+<a href="https://github.com/4444J99/laurea">
+  <img src="https://raw.githubusercontent.com/4444J99/laurea/main/assets/cards/contributions_year.svg" alt="Contribution volume laurel" width="420"/>
+  <img src="https://raw.githubusercontent.com/4444J99/laurea/main/assets/cards/repos_owned.svg" alt="Repository portfolio laurel" width="420"/>
+</a>
+<a href="https://github.com/4444J99/laurea">
+  <img src="https://raw.githubusercontent.com/4444J99/laurea/main/assets/cards/language_breadth.svg" alt="Language breadth laurel" width="420"/>
+  <img src="https://raw.githubusercontent.com/4444J99/laurea/main/assets/cards/full_stack_coverage.svg" alt="Full-stack coverage laurel" width="420"/>
+</a>
 
 <a href="https://github.com/4444j99">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=4444j99&show_icons=true&theme=transparent&hide_border=true&title_color=c9a84c&icon_color=c9a84c&text_color=9f9f9f" alt="GitHub Stats" />
