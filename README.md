@@ -13,7 +13,7 @@ I build autonomous creative systems and treat their governance as an artistic me
 ### Computed Laurels
 
 <a href="https://github.com/4444J99/laurea">
-  <img src="https://raw.githubusercontent.com/4444J99/laurea/main/assets/cards/hero.svg" alt="Computed laurels — top 1% Python full-stack engineer, recomputed daily" width="800"/>
+  <img src="https://raw.githubusercontent.com/4444J99/laurea/main/assets/cards/hero.svg" alt="Computed laurels — top 0.1% engineering throughput, top-1% Python full-stack output profile, recomputed daily" width="800"/>
 </a>
 
 *Not a bio line — an instrument. [LAVREA](https://github.com/4444J99/laurea) recomputes these placements daily from the live GitHub API against cited population baselines; every percentile is a conservative floor, and if the output stops, the claim deletes itself. [Methodology](https://github.com/4444J99/laurea/blob/main/METHODOLOGY.md) · [Full report](https://github.com/4444J99/laurea/blob/main/assets/SUPERLATIVES.md)*
