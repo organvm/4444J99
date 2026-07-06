@@ -184,7 +184,7 @@ Each organ is a [GitHub organization](https://github.com/organvm). The meta-syst
 
 ### Latest Essays
 
-<!-- BLOG-POST-LIST:START -->- [How a Governance System Taught an Agent Framework to Version Itself](https://organvm.github.io/public-process/essays/how-governance-taught-agents-to-version/)- [The Organ Chain Reset: When the Pipeline Is the Product](https://organvm.github.io/public-process/essays/the-organ-chain-reset/)- [The Autonomous Sprint: When the System Maintains Itself](https://organvm.github.io/public-process/essays/the-autonomous-sprint/)- [Precision Over Volume: A Doctoral Thesis on Career Pipeline Optimization](https://organvm.github.io/public-process/essays/precision-over-volume-doctoral-thesis/)- [Two Weeks and Forty-Six Essays: The ORGAN-V Production Retrospective](https://organvm.github.io/public-process/essays/two-weeks-and-forty-six-essays/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Governing the Model: What the Creator of Claude Code’s Workflow Encodes](https://organvm-v-logos.github.io/public-process/essays/governing-the-model/)- [The Solo Auteur Method: Enterprise-Scale Output from a Single Creative Mind](https://organvm-v-logos.github.io/public-process/essays/the-solo-auteur-method/)- [Construction Addiction: When Building Becomes the Problem](https://organvm-v-logos.github.io/public-process/essays/construction-addiction/)- [Twenty-Six Sprints in Six Days: Velocity When There Is No Team](https://organvm-v-logos.github.io/public-process/essays/twenty-six-sprints-in-six-days/)- [What It Takes to Ship a Product from Inside an Organ System](https://organvm-v-logos.github.io/public-process/essays/what-it-takes-to-ship-a-product-from-inside-an-organ-system/)<!-- BLOG-POST-LIST:END -->
 
 ---
 
