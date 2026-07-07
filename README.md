@@ -1,8 +1,10 @@
 # Anthony James Padavano
 
-**Creative Technologist / Systems Architect**
+**Top-tier Creative Technologist / Systems Architect**
 
 I build autonomous creative systems and treat their governance as an artistic medium — shipping infrastructure that coordinates theory, generative art, commerce, and community as a single governed system.
+
+**Proof surface:** <!-- v:total_repos -->171<!-- /v --> canonical public non-fork repos, <!-- v:public_repos -->203<!-- /v --> public accessible repos, <!-- v:owned_ecosystem_repos -->301<!-- /v --> owned accessible repos, and <!-- v:contributed_repos -->321<!-- /v --> contributed repositories, with flagship systems carrying 1,000+ tests each.
 
 **Now:** Shipping an [eight-organ orchestration system](https://github.com/organvm) across <!-- v:total_repos -->171<!-- /v --> repos, <!-- v:total_organs -->10<!-- /v --> orgs, and <!-- v:total_words_short -->988K+<!-- /v --> words of public documentation.
 
