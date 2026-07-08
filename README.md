@@ -1,16 +1,27 @@
 # Anthony James Padavano
 
-**Top-tier Creative Technologist / Systems Architect**
+**Top 0.1% public GitHub output profile · Production systems architect · Creative technologist**
 
-I build autonomous creative systems and treat governance as an artistic medium: software that coordinates theory, generative art, commerce, community, and public process as one operated system.
+I build production systems that solve expensive problems. Not demos: tested, deployed platforms and autonomous organs that coordinate theory, generative art, commerce, community, and public process as one operated system.
 
 **Proof surface:** <!-- v:total_repos -->171<!-- /v --> canonical public non-fork repos, <!-- v:public_repos -->203<!-- /v --> public accessible repos, <!-- v:owned_ecosystem_repos -->301<!-- /v --> owned accessible repos, and <!-- v:contributed_repos -->321<!-- /v --> contributed repositories.
 
-**Current public signal:** GitHub shows 27K+ contributions in the last year, 12.8K+ commits, 2.3K+ pull requests, 2.0K+ issues, and work spread across 300+ contributed repositories. The live graph is the receipt; stale generated widgets are intentionally not used as proof.
+**Current public signal:** GitHub shows <!-- v:year_contributions_short -->27K+<!-- /v --> contributions in the last year, <!-- v:year_commits_short -->13K+<!-- /v --> commits, <!-- v:year_pull_requests_short -->2.3K+<!-- /v --> pull requests, <!-- v:year_issues_short -->2.1K+<!-- /v --> issues, and work spread across <!-- v:contributed_repos -->321<!-- /v --> contributed repositories. The live graph is the receipt; stale generated widgets are intentionally not used as proof.
 
 **Now:** Shipping an [eight-organ orchestration system](https://github.com/organvm) across <!-- v:total_repos -->171<!-- /v --> repos, <!-- v:total_organs -->10<!-- /v --> orgs, and <!-- v:total_words_short -->988K+<!-- /v --> words of public documentation.
 
-[Portfolio](https://organvm.github.io/portfolio/) · [Resume](https://organvm.github.io/portfolio/resume/) · [Public Process](https://organvm.github.io/public-process/) · [Email](mailto:padavano.anthony@gmail.com)
+[Deploy it for your shop](mailto:contact@4444j99.dev?subject=%5Bfront%20door%20%C2%B7%20deploy%5D%20%E2%80%94%20inbound) · [Work with the builder](mailto:contact@4444j99.dev?subject=%5Bfront%20door%20%C2%B7%20hire%5D%20%E2%80%94%20inbound) · [Portfolio](https://organvm.github.io/portfolio/) · [Resume](https://organvm.github.io/portfolio/resume/) · [Public Process](https://organvm.github.io/public-process/)
+
+---
+
+## Front Door
+
+| Door | Use it when |
+|---|---|
+| [Deploy one of these systems](mailto:contact@4444j99.dev?subject=%5Bfront%20door%20%C2%B7%20deploy%5D%20%E2%80%94%20inbound) | You need the output, a branded operated system, or a version built for your exact workflow. |
+| [Work with the builder](mailto:contact@4444j99.dev?subject=%5Bfront%20door%20%C2%B7%20hire%5D%20%E2%80%94%20inbound) | You need a senior builder who owns data, infra, AI, product judgment, deployment, and governance end to end. |
+
+The work below is the portfolio: production systems, public receipts, tests, deploy surfaces, and the operating method behind them.
 
 ---
 
@@ -21,10 +32,10 @@ LAVREA is the live proof instrument for this profile. It recomputes the claim fr
 | Signal | Current proof |
 |---|---:|
 | Engineering throughput | Top 0.1% public GitHub output profile |
-| Twelve-month contribution volume | 27K+ contributions |
-| Pull request throughput | 2.3K+ PRs/year |
-| Repository portfolio | 300+ contributed repositories, 171 canonical public non-fork repos |
-| Operating surface | 10 orgs across the eight-organ system |
+| Twelve-month contribution volume | <!-- v:year_contributions_short -->27K+<!-- /v --> contributions |
+| Pull request throughput | <!-- v:year_pull_requests_short -->2.3K+<!-- /v --> PRs/year |
+| Repository portfolio | <!-- v:contributed_repos -->321<!-- /v --> contributed repositories, <!-- v:total_repos -->171<!-- /v --> canonical public non-fork repos |
+| Operating surface | <!-- v:total_organs -->10<!-- /v --> orgs across the eight-organ system |
 
 [Methodology](https://github.com/organvm/laurea/blob/main/METHODOLOGY.md) · [Full report](https://github.com/organvm/laurea/blob/main/assets/SUPERLATIVES.md) · [LAVREA repo](https://github.com/organvm/laurea)
 
@@ -34,14 +45,14 @@ LAVREA is the live proof instrument for this profile. It recomputes the claim fr
 
 | System | What it proves |
 |---|---|
+| [ChatGPT Conversation Exporter](https://github.com/organvm/a-i-chat--exporter) | In-browser ChatGPT export to Markdown, HTML, JSON, PNG, and text; 170 tests across 16 suites, 9-language UI, distributed through GreasyFork, GitHub, GHCR, and Cloudflare Pages. |
+| [50-State UCC Public-Records Intelligence Platform](https://github.com/organvm/public-record-data-scrapper) | UCC-1 collection and enrichment across all 50 state portals; 3,399 passing tests, 60+ collection agents, AWS Terraform, scoring, dashboard, REST API, and CLI. |
+| [Styx Peer-Audited Behavioral Market](https://github.com/organvm/peer-audited--behavioral-blockchain) | Publish-stage commitment enforcement layer with Stripe escrow, double-entry ledger, peer proof review, and 1,107 tests across the monorepo. |
+| [Autonomous Inbox-Triage & Draft System](https://github.com/organvm/universal-mail--automation) | Gmail and Apple Mail obligations ledger, classification, and voice-matched drafts; 400+ tests, Cloudflare Worker deploy, draft-only by design. |
+| [Self-Healing Agent Fleet Infrastructure](https://github.com/organvm/limen) | Autonomic agent-fleet governance: heartbeat, liveness, stale-work reaping, state sync, credential durability, and failure escalation. |
+| [Portfolio & Case Studies](https://github.com/organvm/portfolio) | 16 production case studies with architecture, decisions, interactive diagrams, live demos where applicable, Astro/TypeScript, Netlify deployment, and SEO-oriented public proof. |
 | [Recursive Engine (RE:GE)](https://github.com/organvm-i-theoria/recursive-engine--generative-entity) | Symbolic operating system for myth, identity, and recursive structures; 1,254 tests, 85% coverage, 21 organ handlers. |
 | [Agentic Titan](https://github.com/organvm-iv-taxis/agentic-titan) | Polymorphic agent swarm architecture; 1,095+ tests, 6 self-organizing topologies, 22 agent archetypes, 18 phases. |
-| [Public Records Intelligence](https://github.com/organvm/public-record-data-scrapper) | 50-state UCC/public-records intelligence; enriched leads, scoring, dashboard, REST API, CLI. |
-| [Peer-Audited Behavioral Blockchain](https://github.com/organvm/peer-audited--behavioral-blockchain) | Peer-audited ledger/behavioral proof surface with high public issue and PR activity. |
-| [AI Chat Exporter](https://github.com/organvm/a-i-chat--exporter) | Conversation export and knowledge extraction pipeline for AI work artifacts. |
-| [Universal Mail Automation](https://github.com/organvm/universal-mail--automation) | Mail triage and automation substrate, gated against unsafe mailbox writes. |
-| [Commerce Meta](https://github.com/organvm/commerce--meta) | Commerce governance and revenue infrastructure for ORGAN III. |
-| [Public Process](https://github.com/organvm/public-process) | Essay and editorial pipeline feeding the logos organ. |
 
 ---
 
@@ -106,7 +117,7 @@ MFA in Creative Writing (FAU) · BA in English Literature (CUNY) · Meta Full-St
 
 ---
 
-<sub>New York City · [Portfolio](https://organvm.github.io/portfolio/) · [Resume](https://organvm.github.io/portfolio/resume/) · [Email](mailto:padavano.anthony@gmail.com) · [ORGANVM](https://github.com/organvm)</sub>
+<sub>New York City · [Portfolio](https://organvm.github.io/portfolio/) · [Resume](https://organvm.github.io/portfolio/resume/) · [Contact](mailto:contact@4444j99.dev?subject=%5Bfront%20door%5D%20inbound) · [ORGANVM](https://github.com/organvm)</sub>
 
 <!-- SYSTEM-NAV-START -->
 
