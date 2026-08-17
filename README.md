@@ -10,7 +10,7 @@ I build production systems that solve expensive problems. Not demos: tested, dep
 
 **Now:** Shipping an [eight-organ orchestration system](https://github.com/organvm) across <!-- v:total_repos -->171<!-- /v --> repos, <!-- v:total_organs -->10<!-- /v --> orgs, and <!-- v:total_words_short -->988K+<!-- /v --> words of public documentation.
 
-[Deploy it for your shop](mailto:contact@4444j99.dev?subject=%5Bfront%20door%20%C2%B7%20deploy%5D%20%E2%80%94%20inbound) · [Work with the builder](mailto:contact@4444j99.dev?subject=%5Bfront%20door%20%C2%B7%20hire%5D%20%E2%80%94%20inbound) · [Portfolio](https://organvm.github.io/portfolio/) · [Resume](https://organvm.github.io/portfolio/resume/) · [Public Process](https://organvm.github.io/public-process/)
+[Deploy it for your shop](mailto:contact@4444j99.dev?subject=%5Bfront%20door%20%C2%B7%20deploy%5D%20%E2%80%94%20inbound) · [Work with the builder](mailto:contact@4444j99.dev?subject=%5Bfront%20door%20%C2%B7%20hire%5D%20%E2%80%94%20inbound) · [Portfolio](https://organvm-vii-kerygma.github.io/portfolio/) · [Resume](https://organvm-vii-kerygma.github.io/portfolio/resume/) · [Public Process](https://organvm.github.io/public-process/)
 
 ---
 
@@ -117,12 +117,12 @@ MFA in Creative Writing (FAU) · BA in English Literature (CUNY) · Meta Full-St
 
 ---
 
-<sub>New York City · [Portfolio](https://organvm.github.io/portfolio/) · [Resume](https://organvm.github.io/portfolio/resume/) · [Contact](mailto:contact@4444j99.dev?subject=%5Bfront%20door%5D%20inbound) · [ORGANVM](https://github.com/organvm)</sub>
+<sub>New York City · [Portfolio](https://organvm-vii-kerygma.github.io/portfolio/) · [Resume](https://organvm-vii-kerygma.github.io/portfolio/resume/) · [Contact](mailto:contact@4444j99.dev?subject=%5Bfront%20door%5D%20inbound) · [ORGANVM](https://github.com/organvm)</sub>
 
 <!-- SYSTEM-NAV-START -->
 
 ---
 
-<sub>[Portfolio](https://organvm.github.io/portfolio/) · [System Directory](https://organvm.github.io/portfolio/directory/) · [ORGAN 4444J99](https://github.com/organvm/4444J99) · [Rendered profile repo](https://github.com/4444J99/4444J99)</sub>
+<sub>[Portfolio](https://organvm-vii-kerygma.github.io/portfolio/) · [System Directory](https://organvm-vii-kerygma.github.io/portfolio/directory/) · [ORGAN 4444J99](https://github.com/organvm/4444J99) · [Rendered profile repo](https://github.com/4444J99/4444J99)</sub>
 
 <!-- SYSTEM-NAV-END -->
